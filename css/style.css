@@ -1,0 +1,131 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+h1
+{
+  color: #f4f4f4;
+  margin-top: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h2
+{
+  color: #c3edea;
+  font-family: 'Cinzel', serif;
+}
+p{
+  color: #faf4ff;
+  font-size: 2rem;
+  font-family:'Alegreya Sans', sans-serif;
+
+}
+hr
+{
+  height: 2px;
+  margin: 0 0 50px;
+}
+.Projects {
+width: 60%;
+margin: auto;
+}
+.rows
+{
+  padding: 80px 0;
+
+}
+.top {
+  background-image: url("keybord.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom 50px right 0;
+  margin-bottom: 200px;
+
+
+}
+
+.middle {
+  background-color: #323232;
+}
+
+.bottom{
+    background-color: black;
+
+}
+.dp
+{
+margin-top: 120px;
+width: 400px;
+
+}
+.RoboHandpic
+{
+  width: 260px;
+  height: 190px;
+  float: left;
+}
+.MLpic
+{
+  width: 260px;
+  height: 190px;
+  float: right;
+}
+.skill
+{
+  width: 10%;
+}
+h3{
+  font-size: 480%;
+}
+.skills
+{
+  background-color: #ff1e56;
+  padding-bottom: 10px;
+}
+.links
+{
+  width: 5%;
+  margin: 0 20px;
+}
+.bottom
+{
+  padding: 50px 0 20px;
+}
+.heading
+{
+  font-size: 2rem;
+  padding-top: 30px;
+
+}
+.BUTTON
+{background: #E43F5A;
+  background-image: -webkit-linear-gradient(top, #E43F5A, #900C3F);
+  background-image: -moz-linear-gradient(top, #E43F5A, #900C3F);
+  background-image: -ms-linear-gradient(top, #E43F5A, #900C3F);
+  background-image: -o-linear-gradient(top, #E43F5A, #900C3F);
+  background-image: linear-gradient(to bottom, #E43F5A, #900C3F);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: Open Sans;
+  font-weight: 700;
+  padding: 14px;
+  box-shadow: 0px 0px 17px 0px #FFFFFF;
+  -webkit-box-shadow: 0px 0px 17px 0px #FFFFFF;
+  -moz-box-shadow: 0px 0px 17px 0px #FFFFFF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON:hover
+{
+  background: #DD380D;
+  border: solid #DD380D 0px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
